@@ -1,0 +1,3 @@
+com\mycompany\java\rmi\RemoteInterface.class
+com\mycompany\java\rmi\RemoteClient.class
+com\mycompany\java\rmi\RemoteServer.class
